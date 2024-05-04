@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "vistaDurango.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
